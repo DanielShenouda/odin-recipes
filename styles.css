@@ -1,0 +1,21 @@
+.page-title {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    background-color: black;
+    margin: 5px;
+    border-radius: 5%;
+}
+
+button 
+a {
+    color: white;
+    font-size: medium;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
