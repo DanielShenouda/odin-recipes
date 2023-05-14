@@ -15,6 +15,12 @@ a {
     font-size: medium;
 }
 
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
 img {
     width: 500px;
     height: auto;
